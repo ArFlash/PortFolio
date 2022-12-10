@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9e156882.css",
+    "main.js": "/static/js/main.0a5f6959.js",
+    "static/js/787.e3835ec5.chunk.js": "/static/js/787.e3835ec5.chunk.js",
+    "static/media/React.png": "/static/media/React.09ab3246c0d465bf23ed.png",
+    "static/media/Linux.png": "/static/media/Linux.7424f005c0aeeda537d5.png",
+    "static/media/BootStrap.png": "/static/media/BootStrap.28ae6bfef70fee7b7f4c.png",
+    "static/media/Java.png": "/static/media/Java.b2c022d6ebb2c7fb4604.png",
+    "static/media/logo.png": "/static/media/logo.645c29a108241025891e.png",
+    "static/media/background.webp": "/static/media/background.316804163452ad13bc3e.webp",
+    "static/media/C++ Programming.png": "/static/media/C++ Programming.f1b8c9429fd09d5886b7.png",
+    "static/media/img.webp": "/static/media/img.9aca7cebe818752aed49.webp",
+    "static/media/C Programming.png": "/static/media/C Programming.c0da8156a8d17281c29e.png",
+    "index.html": "/index.html",
+    "main.9e156882.css.map": "/static/css/main.9e156882.css.map",
+    "main.0a5f6959.js.map": "/static/js/main.0a5f6959.js.map",
+    "787.e3835ec5.chunk.js.map": "/static/js/787.e3835ec5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e156882.css",
+    "static/js/main.0a5f6959.js"
+  ]
+}
